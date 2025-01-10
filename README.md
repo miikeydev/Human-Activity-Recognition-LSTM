@@ -8,6 +8,7 @@ This repository contains MATLAB scripts for recognizing human activities and pos
 - `DataSetAnalysis.m`: Data exploration and analysis
 - `TrainingWith20BestFeaturesLSTM.m`: Training LSTM with the top 20 features
 - `TrainingWithAllFeaturesLSTM.m`: Training LSTM with all 561 features
+- `LSTMTrainingCurves/`: Training curves and performance plots
 - `README.md`: Project documentation
 
 ## Requirements
