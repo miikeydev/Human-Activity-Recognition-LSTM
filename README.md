@@ -26,7 +26,7 @@ This repository contains MATLAB scripts for recognizing human activities and pos
 
 3. Run the scripts
 
-License
+## License
 This project is licensed under the MIT License.
 
 Feel free to contribute or open issues for suggestions!
